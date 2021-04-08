@@ -6,7 +6,7 @@
      and warning also action limits in connection with standard deviation and statistical process control.
      
 - 💞️ I’m looking to collaborate on programs for quality assurance
-- 📫 How to reach me: Acceptable Quality Level-mail address is: josef.wismeth@t-online.de
+- 📫 How to reach me: My e-mail address is: josef.wismeth@t-online.de
 
 <!---
 rustyoldguy/rustyoldguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
